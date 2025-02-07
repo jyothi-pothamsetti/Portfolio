@@ -1,4 +1,4 @@
-Pothamsetti Jyothi - Portfolio Website
+#Pothamsetti Jyothi - Portfolio Website
 This is the personal portfolio website for Pothamsetti Jyothi, showcasing projects, skills, and professional experience. The website is designed to be simple, responsive, and visually appealing.
 
 Features
